@@ -1,5 +1,5 @@
-{
-"spider":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/custom_spider.jar",
+﻿{
+"spider":"./alist.jar",
 
   "lives": [
     {
@@ -36,8 +36,8 @@
 
 {"key":"00bendi","name":"🏠本地播放","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":1,"type_flag":1},
 {"key":"ffBBB","name":"🌐Bilibili (HD)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/00bili0515.json"},
-{"key":"csp_AList","name":"🅰AList(SP)","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"./a.json","jumpDetail":0,"reversePlay":0,"enable":1},
-{"key":"js_Alist","name":"Alist(js)","type":3,"api":"https://raw.githubusercontent.com/c120487/dr_py/master/libs/alist.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./a.json"},
+{"key":"csp_AList","name":"🅰AList(SP)","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/alist.json","jumpDetail":0,"reversePlay":0,"enable":1},
+{"key":"js_Alist","name":"Alist(js)","type":3,"api":"https://raw.githubusercontent.com/c120487/dr_py/master/libs/alist.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/alist.json"},
 {"key":"csp_Paper","name":"📜小纸条Paper","type":3,"api":"csp_Paper","searchable":0,"quickSearch":0,"filterable":1,"ext": "https://gitee.com/babyisbreath/babyish/raw/master/token.txt"},
 {"key":"Gitcafe","name":"📜小纸条Gitcafe","type":3,"api":"csp_Gitcafe","searchable":0,"quickSearch":0,"filterable":1,"playerType":1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/vwnp4a7z.json"},
 
