@@ -1,5 +1,5 @@
 {
-"spider":"./alist.jar",
+"spider":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/custom_spider.jar",
 
   "lives": [
     {
