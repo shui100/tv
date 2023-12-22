@@ -1,0 +1,17 @@
+{
+  "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
+  "drives": [
+    {
+      "name": "SFC",
+      "server": "https://alist-caimoui.cloud.okteto.net/"
+    },
+    {
+      "name": "LA",
+      "server": "https://lala-ofbip.run.goorm.site/"
+    },
+    {
+      "name": "9T",
+      "server": "https://drive.9t.ee/"
+    }
+  ]
+}
