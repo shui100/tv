@@ -12,14 +12,13 @@
   
 
 "sites": [
-//Date,search and score
 {"key":"date","name":"🐈‍🐈Gao🐈‍🐈‍","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
 {"key":"00bendi","name":"🏠本地播放","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":1,"type_flag":1},
 {"key":"ffBBB","name":"🌐Bilibili (HD)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/00bili0515.json"},
 {"key":"csp_AList","name":"🅰AList(SP)","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/alist.json","jumpDetail":0,"reversePlay":0,"enable":1},
 {"key":"js_Alist","name":"Alist(js)","type":3,"api":"https://raw.githubusercontent.com/c120487/dr_py/master/libs/alist.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/alist.json"}
-],
+]，
 
 "flags":["youku","qq","iqiyi","imgo","xueren","m1905","qiyi","letv","sohu","tudou","pptv","dbm3u8","mgtv","wasu","bilibili","le","duoduozy","renrenmi","xigua","优酷","西瓜","乐视","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy","哔哩哔哩","哔哩"],
 "parses":[
@@ -33,7 +32,7 @@
 {"name":"未知","type":0,"url":"https://h5.freejson.xyz/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
 {"name":"OKjx嗅探","type":0,"url":"https://okjx.cc/?url="}
-],
+]，
 
 
 "ijk":[
