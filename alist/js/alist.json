@@ -9,14 +9,14 @@
 },
 {
 "name" : "lala",
-"server" : "https://lala-ofbip.run.goorm.site",
+"server" : "http://lala-ofbip.run.goorm.site/",
 "startPage" : "/",
 "showAll" : false,
 "search" : true
 },
 {
 "name" : "私房菜",
-"server" : "https://alist-caimoui.cloud.okteto.net",
+"server" : "http://alist-caimoui.cloud.okteto.net/",
 "startPage" : "/",
 "showAll" : false,
 "search" : true

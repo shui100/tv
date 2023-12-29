@@ -3,11 +3,11 @@
   "drives": [
     {
       "name": "SFC",
-      "server": "https://alist-caimoui.cloud.okteto.net"
+      "server": "http://alist-caimoui.cloud.okteto.net/"
     },
     {
       "name": "LA",
-      "server": "https://lala-ofbip.run.goorm.site"
+      "server": "http://lala-ofbip.run.goorm.site/"
     },
     {
       "name": "9T",
