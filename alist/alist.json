@@ -1,15 +1,6 @@
 ﻿{
 "spider":"./jar/alist.jar",
 
-  "lives": [
-    {
-      "name": "Jundie",
-      "type": 0,
-      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-    }
-  ],
-  
 "sites": 
 [
 {"key":"csp_AList","name":"🅰AList(SP)","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/alist.json","jumpDetail":0,"reversePlay":0,"enable":1},

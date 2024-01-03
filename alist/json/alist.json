@@ -3,7 +3,7 @@
   "drives": [
     {
       "name": "SFC",
-      "server": "http://alist-caimoui.cloud.okteto.net/"
+      "server": "https://alist-caimoui.cloud.okteto.net/"
     },
     {
       "name": "LA",

@@ -16,7 +16,7 @@
 },
 {
 "name" : "私房菜",
-"server" : "http://alist-caimoui.cloud.okteto.net/",
+"server" : "https://alist-caimoui.cloud.okteto.net/",
 "startPage" : "/",
 "showAll" : false,
 "search" : true
