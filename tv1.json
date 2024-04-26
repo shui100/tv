@@ -1,0 +1,31 @@
+{
+  "urls": [
+  {
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
+      "name": "raw9918"
+    },
+    {
+      "url": "https://raw.kkgithub.com/shui100/gao/master/9918.json",
+      "name": "kk9918"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/shui100/gao/master/9918.json",
+      "name": "mirror9918"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/xzqcsa/ysc/master/xzqzy/18.json",
+      "name": "raw18"
+    },
+    {
+      "url": "https://fastly.jsdelivr.net/gh/shui100/ysc@master/xzqzy/18.json",
+      "name": "fastly18"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/panjinda/TVBOX/main/CandyMuj-18.json",
+      "name": "CandyMuj-18"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ab026000/PG/master/1818.json",
+      "name": "1818"
+    }
+  ]
