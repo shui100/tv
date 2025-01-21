@@ -2,15 +2,15 @@
   "urls": [    
     {
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xzwei528/zyc/main/vip.json",
-      "name": "📺影视源vip"
+      "name": "影视源vip"
     }
     {
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bluefriendCN/set/main/my.json",
-      "name": "📺影视源my"
+      "name": "影视源my"
     },
     {
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/shui100/gao/master/0821.json",
-      "name": "📺影视源0821"
+      "name": "影视源0821"
     }
   ]
 }
