@@ -1,10 +1,10 @@
 {
   "urls": [
-    {"url": "https://ghfast.top/https://raw.githubusercontent.com/shui100/gao/master/0821.json","name":"影视源0821"},
-    {"url": "https://ghfast.top/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/moyu.json","name":"影视源moyu"},
-    {"url": "https://ghfast.top/https://raw.githubusercontent.com/xzwei528/zyc/main/vip.json","name":"影视源vip"},
-    {"url": "https://ghfast.top/https://raw.githubusercontent.com/loopool/fan/main/xo.json","name":"影视源xo"},
-    {"url": "https://ghfast.top/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/api.json","name":"影视源api"},
-    {"url": "https://ghfast.top/https://raw.githubusercontent.com/bluefriendCN/set/main/my.json","name":"影视源my"}
+    {"url": "https://v.muzid.eu.org/a.json","name":"影视源A"},
+    {"url": "https:"https://v.muzid.eu.org/xo.json","name":"影视源XO"},
+    {"url": "https://ghfast.top/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/moyu.json","name":"影视源MOYU"},
+    {"url": "https://ghfast.top/https://raw.githubusercontent.com/ne7359/tvurl/main/xiaosa/api.json","name":"影视源API"},
+    {"url": "https://ghfast.top/https://raw.githubusercontent.com/bluefriendCN/set/main/my.json","name":"影视源MY"},
+    {"url": "https://ghfast.top/https://raw.githubusercontent.com/shui100/gao/master/0821.json","name":"影视源0821"}
   ]
 }
